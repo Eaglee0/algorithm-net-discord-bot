@@ -1,0 +1,1 @@
+{"id":"9670c05f-7e5d-4135-973c-03ad5aec1f38","space":1045,"runtime":"python3.7","name":"Algorithm-net-discord-bot","path":"rm9kgm","project":"a042z3no","account":"144798365827","region":"eu-central-1","deps":["discord.py"],"envs":null,"public":true,"log_level":"debug","cron":"","reload_deps":false}
