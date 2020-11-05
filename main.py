@@ -11,6 +11,7 @@ client = discord.Client()
 async def on_message(message):
     n = 0
     # we do not want the bot to reply to itself
+    #test webhook
     if message.author == client.user:
         return
 
